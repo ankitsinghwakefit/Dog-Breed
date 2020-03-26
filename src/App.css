@@ -1,0 +1,19 @@
+.breedlist-container {
+    font-size: 20px !important;
+    line-height: 2 !important;
+}
+
+.breedlist-container h1 {
+    font-size: 30px !important;
+}
+
+.image-container {
+    width: 800px;
+    height: 100%;
+    align-items: center;
+}
+
+.image-container img{
+    width: 80%;
+    height: 80%;
+}
